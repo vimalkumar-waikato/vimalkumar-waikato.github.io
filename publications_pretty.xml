@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<publications>
+  <publication id="pub-001" type="inproceedings">
+    <title>A test-bed for secure hierarchical data aggregation in wireless sensor networks</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Joshua</firstName>
+        <lastName>McCarville-Schueths</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>The 7th IEEE International Conference on Mobile Ad-hoc and Sensor Systems (IEEE MASS 2010)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2010</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-002" type="article">
+    <title>Secure Data Aggregation in Wireless Sensor Networks</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Wireless Sensor Network Technologies for the Information Explosion Era</name>
+    </venue>
+    <publisher>Springer</publisher>
+    <date>
+      <year>2010</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-003" type="article">
+    <title>Challenges in secure sensor-cloud computing</title>
+    <authors>
+      <author>
+        <firstName>Nayot</firstName>
+        <lastName>Poolsappasit</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+      <author>
+        <firstName>Sriram</firstName>
+        <lastName>Chellappan</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Secure Data Management</name>
+    </venue>
+    <publisher>Springer</publisher>
+    <date>
+      <year>2011</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-004" type="inproceedings">
+    <title>Performance analysis of secure hierarchical data aggregation in wireless sensor networks</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2010 Eleventh International Conference on Mobile Data Management</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2010</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-005" type="inproceedings">
+    <title>Secure hierarchical data aggregation in wireless sensor networks: Performance evaluation and analysis</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay Kumar</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2012 IEEE 13th International Conference on Mobile Data Management</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2012</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-006" type="article">
+    <title>Sensor Cloud: A Cloud of Virtual Sensors</title>
+    <authors>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Rashmi</firstName>
+        <lastName>Dalvi</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Software</name>
+    </venue>
+    <publisher>IEEE</publisher>
+    <date>
+      <year>2014</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-007" type="inproceedings">
+    <title>Pip: Privacy and integrity preserving data aggregation in wireless sensor networks</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Reliable Distributed Systems (SRDS), 2013 IEEE 32nd International Symposium on</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2013</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-008" type="article">
+    <title>A survey of trust and trust management in cloud computing</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Brijesh</firstName>
+        <lastName>Chejerla</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+      <author>
+        <firstName>Mukesh</firstName>
+        <lastName>Mohania</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Managing Trust in Cyberspace</name>
+    </venue>
+    <publisher>CRC Press</publisher>
+    <date>
+      <year>2013</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-009" type="inproceedings">
+    <title>Efficient and Secure Code Dissemination in Sensor Clouds</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Mobile Data Management</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2014</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-010" type="article">
+    <title>ENERGY EFFICIENT SECURE DATA AGGREGATION IN WIRELESS SENSOR NETWORKS</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2011</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-011" type="article">
+    <title>Secure Data Aggregation using Multiparty Computation</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year/>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-012" type="inproceedings">
+    <title>Three point encryption (3PE): Secure communications in delay tolerant networks</title>
+    <authors>
+      <author>
+        <firstName>Roy</firstName>
+        <lastName>Cabaniss</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2012 IEEE 31st Symposium on Reliable Distributed Systems</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2012</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-013" type="article">
+    <title>Multi-party encryption (MPE): secure communications in delay tolerant networks</title>
+    <authors>
+      <author>
+        <firstName>Roy</firstName>
+        <lastName>Cabaniss</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Wireless Networks</name>
+    </venue>
+    <publisher>Springer US New York</publisher>
+    <date>
+      <year>2015</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-014" type="inproceedings">
+    <title>Distributed attribute based access control of aggregated data in sensor clouds</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2015 IEEE 34th Symposium on Reliable Distributed Systems (SRDS)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2015</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-015" type="inproceedings">
+    <title>Using Machine Learning Techniques to Track Individuals \&amp; Their Fitness Activities</title>
+    <authors>
+      <author>
+        <firstName>Thomas</firstName>
+        <lastName>Reichherzer</lastName>
+      </author>
+      <author>
+        <firstName>Mikayla</firstName>
+        <lastName>Timm</lastName>
+      </author>
+      <author>
+        <firstName>Nathan</firstName>
+        <lastName>Earley</lastName>
+      </author>
+      <author>
+        <firstName>Nathaniel</firstName>
+        <lastName>Reyes</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Conference on Computers and Their Applications</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-016" type="article">
+    <title>Personal Data Collection in the Workplace: Ethical and Technical Challenges</title>
+    <authors>
+      <author>
+        <firstName>Judy</firstName>
+        <lastName>Bowen</lastName>
+      </author>
+      <author>
+        <firstName>Annika</firstName>
+        <lastName>Hinze</lastName>
+      </author>
+      <author>
+        <firstName>Christopher</firstName>
+        <lastName>Griffiths</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>David</firstName>
+        <lastName>Bainbridge</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-017" type="incollection">
+    <title>Understanding software-defined perimeter</title>
+    <authors>
+      <author>
+        <firstName>Chenkang</firstName>
+        <lastName>Tang</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sivadon</firstName>
+        <lastName>Chaisiri</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-018" type="article">
+    <title>Data security in cloud computing</title>
+    <authors>
+      <author>
+        <firstName>Deepak</firstName>
+        <lastName>Chahal</lastName>
+      </author>
+      <author>
+        <firstName>Latika</firstName>
+        <lastName>Kharb</lastName>
+      </author>
+      <author>
+        <firstName>Tarun</firstName>
+        <lastName>Punia</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Journal of Engineering and Science Invention</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-019" type="inproceedings">
+    <title>Fine Grained Attribute Based Access Control of Healthcare Data</title>
+    <authors>
+      <author>
+        <firstName>Edward</firstName>
+        <lastName>Mrema</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>12th International Symposium on Medical Information and Communication Technology</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2018</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-020" type="inproceedings">
+    <title>A bilinear pairing based secure data aggregation scheme for WSNs</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2019 15th International wireless communications \&amp; mobile computing conference (IWCMC)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2019</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-021" type="inproceedings">
+    <title>Behaviour Based Ransomware Detection</title>
+    <authors>
+      <author>
+        <firstName>Christopher</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>34th International Conference on Computers and Their Applications</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2019</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-022" type="incollection">
+    <title>A data-centric view of cloud security</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sivadon</firstName>
+        <lastName>Chaisiri</lastName>
+      </author>
+      <author>
+        <firstName>Ryan</firstName>
+        <lastName>Ko</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Data Security in Cloud Computing</name>
+    </venue>
+    <publisher>IET</publisher>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-023" type="misc">
+    <title>Secure Sensor Cloud</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2019</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-024" type="inproceedings">
+    <title>Using Audio Characteristics for Mobile Device Authentication</title>
+    <authors>
+      <author>
+        <firstName>Matthew</firstName>
+        <lastName>Dekker</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>13th International Conference on Network and System Security, NSS 2019</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2019</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-025" type="inproceedings">
+    <title>ESCAPADE: Encryption-type-ransomware: System Call based Pattern Detection</title>
+    <authors>
+      <author>
+        <firstName>Christopher</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Panos</firstName>
+        <lastName>Patros</lastName>
+      </author>
+      <author>
+        <firstName>Robi</firstName>
+        <lastName>Malik</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>14th International Conference on Network and System Security</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2020</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-026" type="inproceedings">
+    <title>Towards embedding data provenance in files</title>
+    <authors>
+      <author>
+        <firstName>Thye Way</firstName>
+        <lastName>Phua</lastName>
+      </author>
+      <author>
+        <firstName>Panos</firstName>
+        <lastName>Patros</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2021</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-027" type="article">
+    <title>Local Editing in LZ-End Compressed Data</title>
+    <authors>
+      <author>
+        <firstName>Daniel</firstName>
+        <lastName>Roodt</lastName>
+      </author>
+      <author>
+        <firstName>Ulrich</firstName>
+        <lastName>Speidel</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Ryan KL</firstName>
+        <lastName>Ko</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>arXiv preprint arXiv:2007.06167</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2020</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-028" type="inproceedings">
+    <title>On Random Editing in LZ-End</title>
+    <authors>
+      <author>
+        <firstName>Daniel</firstName>
+        <lastName>Roodt</lastName>
+      </author>
+      <author>
+        <firstName>Ulrich</firstName>
+        <lastName>Speidel</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Ryan KL</firstName>
+        <lastName>Ko</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2021 Data Compression Conference (DCC)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2021</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-029" type="inproceedings">
+    <title>Searching on Non-Systematic Erasure Codes</title>
+    <authors>
+      <author>
+        <firstName>Atthapan</firstName>
+        <lastName>Daramas</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2021 18th International Conference on Privacy, Security and Trust (PST)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2021</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-030" type="inproceedings">
+    <title>Design and Architecture of Progger 3: A Low-Overhead, Tamper-Proof Provenance System</title>
+    <authors>
+      <author>
+        <firstName>Tristan</firstName>
+        <lastName>Corrick</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>First International Conference on Ubiquitous Security</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-031" type="inproceedings">
+    <title>Assessing Vulnerability from Its Description</title>
+    <authors>
+      <author>
+        <firstName>Zijing</firstName>
+        <lastName>Zhang</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Michael</firstName>
+        <lastName>Mayo</lastName>
+      </author>
+      <author>
+        <firstName>Albert</firstName>
+        <lastName>Bifet</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Conference on Ubiquitous Security</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-032" type="inproceedings">
+    <title>Listen to the Music: Evaluating the Use of Music in Audio Based Authentication</title>
+    <authors>
+      <author>
+        <firstName>Michael</firstName>
+        <lastName>Tsai</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Conference on Ubiquitous Security</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-033" type="inproceedings">
+    <title>Sok: static configuration analysis in infrastructure as code scripts</title>
+    <authors>
+      <author>
+        <firstName>Pandu Ranga Reddy</firstName>
+        <lastName>Konala</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>David</firstName>
+        <lastName>Bainbridge</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2023 IEEE international conference on cyber security and resilience (CSR)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2023</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-034" type="article">
+    <title>Android Crypto Ransomware System Call Dataset</title>
+    <authors>
+      <author>
+        <firstName>Christopher</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Panos</firstName>
+        <lastName>Patros</lastName>
+      </author>
+      <author>
+        <firstName>Robi</firstName>
+        <lastName>Malik</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>IEEE Dataport</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-035" type="article">
+    <title>Real-time system call-based ransomware detection</title>
+    <authors>
+      <author>
+        <firstName>Christopher Jun Wen</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Panos</firstName>
+        <lastName>Patros</lastName>
+      </author>
+      <author>
+        <firstName>Robi</firstName>
+        <lastName>Malik</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Journal of Information Security</name>
+    </venue>
+    <publisher>Springer Berlin Heidelberg Berlin/Heidelberg</publisher>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-036" type="inproceedings">
+    <title>ADMIn: Attacks on Dataset, Model and Input: A Threat Model for AI Based Software</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Juliette</firstName>
+        <lastName>Mayo</lastName>
+      </author>
+      <author>
+        <firstName>Khadija</firstName>
+        <lastName>Bahiss</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Conference on Information Systems Security and Privacy (ICISSP)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-037" type="article">
+    <title>Ai-enabled automated common vulnerability scoring from common vulnerabilities and exposures descriptions</title>
+    <authors>
+      <author>
+        <firstName>Zijing</firstName>
+        <lastName>Zhang</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Bernhard</firstName>
+        <lastName>Pfahringer</lastName>
+      </author>
+      <author>
+        <firstName>Albert</firstName>
+        <lastName>Bifet</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Journal of Information Security</name>
+    </venue>
+    <publisher>Springer Berlin Heidelberg Berlin/Heidelberg</publisher>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-038" type="incollection">
+    <title>Access Control of Aggregated Data in Sensor Clouds</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Secure Sensor Cloud</name>
+    </venue>
+    <publisher>Springer International Publishing Cham</publisher>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-039" type="incollection">
+    <title>Sensor Cloud Architecture and Implementation</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Secure Sensor Cloud</name>
+    </venue>
+    <publisher>Springer International Publishing Cham</publisher>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-040" type="incollection">
+    <title>Risk Assessment in a Sensor Cloud</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Secure Sensor Cloud</name>
+    </venue>
+    <publisher>Springer International Publishing Cham</publisher>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-041" type="incollection">
+    <title>Secure Aggregation of Data in a Sensor Cloud</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Secure Sensor Cloud</name>
+    </venue>
+    <publisher>Springer International Publishing Cham</publisher>
+    <date>
+      <year>2022</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-042" type="article">
+    <title>Automatic detection of Android crypto ransomware using supervisor reduction</title>
+    <authors>
+      <author>
+        <firstName>Christopher Jun Wen</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Robi</firstName>
+        <lastName>Malik</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Panos</firstName>
+        <lastName>Patros</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Discrete Event Dynamic Systems</name>
+    </venue>
+    <publisher>Springer US New York</publisher>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-043" type="inproceedings">
+    <title>Detecting Ransomware Using System Calls Through Transfer Learning on a Limited Feature Set</title>
+    <authors>
+      <author>
+        <firstName>Harpreet</firstName>
+        <lastName>Kaur</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Atthapan</firstName>
+        <lastName>Daramas</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Conference on Web Information Systems Engineering</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-044" type="inproceedings">
+    <title>Quantifying Privacy in Cooperative Awareness Services Through Trajectory Reconstruction</title>
+    <authors>
+      <author>
+        <firstName>Atthapan</firstName>
+        <lastName>Daramas</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Marinho</firstName>
+        <lastName>Barcellos</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2024 21st Annual International Conference on Privacy, Security and Trust (PST)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2024</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-045" type="article">
+    <title>A Framework for Measuring the Quality of Infrastructure-as-Code Scripts</title>
+    <authors>
+      <author>
+        <firstName>Pandu Ranga Reddy</firstName>
+        <lastName>Konala</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>David</firstName>
+        <lastName>Bainbridge</lastName>
+      </author>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>arXiv preprint arXiv:2502.03127</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-046" type="article">
+    <title>Synthesis Lectures on Algorithms and Software in Engineering: Secure Sensor Cloud</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Amartya</firstName>
+        <lastName>Sen</lastName>
+      </author>
+      <author>
+        <firstName>Sanjay Kumar</firstName>
+        <lastName>Madria</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher>Synthesis Lectures on Algorithms and Software in Engineering</publisher>
+    <date>
+      <year>2018</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-047" type="inproceedings">
+    <title>Metadata Assisted Supply-Chain Attack Detection for Ansible</title>
+    <authors>
+      <author>
+        <firstName>Pandu Ranga Reddy</firstName>
+        <lastName>Konala</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>David</firstName>
+        <lastName>Bainbridge</lastName>
+      </author>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Data and Applications Security and Privacy XXXIX: 39th IFIP WG 11.3 Annual Conference on Data and Applications Security and Privacy, DBSec 2025, Gj{\o</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-048" type="incollection">
+    <title>Technical Perspectives on Cyber Diplomacy</title>
+    <authors>
+      <author>
+        <firstName>Kaie</firstName>
+        <lastName>Maennel</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Olaf Manuel</firstName>
+        <lastName>Maennel</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>The Palgrave Handbook on Cyber Diplomacy</name>
+    </venue>
+    <publisher>Springer Nature Switzerland Cham</publisher>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-049" type="misc">
+    <title>Data Security in Cloud Computing</title>
+    <authors>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Sivadon</firstName>
+        <lastName>Chaisiri</lastName>
+      </author>
+      <author>
+        <firstName>Ryan</firstName>
+        <lastName>Ko</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name/>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-050" type="article">
+    <title>Data security in cloud computing</title>
+    <authors>
+      <author>
+        <firstName>Deepak</firstName>
+        <lastName>Chahal</lastName>
+      </author>
+      <author>
+        <firstName>Latika</firstName>
+        <lastName>Kharb</lastName>
+      </author>
+      <author>
+        <firstName>Tarun</firstName>
+        <lastName>Punia</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>International Journal of Engineering and Science Invention</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2017</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-051" type="article">
+    <title>Securing educational LLMs: A generalised taxonomy of attacks on LLMs and DREAD risk assessment</title>
+    <authors>
+      <author>
+        <firstName>Farzana</firstName>
+        <lastName>Zahid</lastName>
+      </author>
+      <author>
+        <firstName>Anjalika</firstName>
+        <lastName>Sewwandi</lastName>
+      </author>
+      <author>
+        <firstName>Lee</firstName>
+        <lastName>Brandon</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Roopak</firstName>
+        <lastName>Sinha</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>High-Confidence Computing</name>
+    </venue>
+    <publisher>Elsevier</publisher>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-052" type="inproceedings">
+    <title>Tracking Security Smell Diffusion Patterns in Ansible Playbooks Using Metadata</title>
+    <authors>
+      <author>
+        <firstName>Pandu Ranga Reddy</firstName>
+        <lastName>Konala</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>David</firstName>
+        <lastName>Bainbridge</lastName>
+      </author>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Advances in Information and Computer Security: 20th International Workshop on Security, IWSEC 2025, Fukuoka, Japan, November 25--27, 2025, Proceedings</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+  <publication id="pub-053" type="article">
+    <title>Investigating the data in investor alerting portals</title>
+    <authors>
+      <author>
+        <firstName>David M</firstName>
+        <lastName>Nichols</lastName>
+      </author>
+      <author>
+        <firstName>Chris</firstName>
+        <lastName>Chew</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Security Journal</name>
+    </venue>
+    <publisher>Palgrave Macmillan UK</publisher>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
+</publications>

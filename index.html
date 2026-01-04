@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Academic Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script>
+async function loadPublications(xmlPath, targetElementId) {
+    const response = await fetch(xmlPath);
+    const xmlText = await response.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(xmlText, "application/xml");
+
+    const publications = xml.querySelectorAll("publication");
+    const ul = document.createElement("ul");
+
+    publications.forEach(pub => {
+        const li = document.createElement("li");
+
+        // ---- AUTHORS ----
+        const authors = [];
+        pub.querySelectorAll("author").forEach(author => {
+            const first = author.querySelector("firstName")?.textContent || "";
+            const last = author.querySelector("lastName")?.textContent || "";
+
+            let name = `${first} ${last}`.trim();
+
+            // Bold your name
+            if (first === "Vimal" && last === "Kumar") {
+                name = `<strong>${name}</strong>`;
+            }
+
+            authors.push(name);
+        });
+
+        const authorText = authors.join(", ");
+
+        // ---- TITLE ----
+        const title = pub.querySelector("title")?.textContent || "";
+
+        // ---- VENUE & YEAR ----
+        const venue = pub.querySelector("venue name")?.textContent || "";
+        const year = pub.querySelector("date year")?.textContent || "";
+
+        // ---- LINKS ----
+        const local = pub.querySelector("links local")?.textContent || "";
+        const online = pub.querySelector("links online")?.textContent || "";
+
+        let linksHTML = "";
+        if (local) {
+            linksHTML += ` <a href="${local}" target="_blank">[PDF]</a>`;
+        }
+        if (online) {
+            linksHTML += ` <a href="${online}" target="_blank">[Online]</a>`;
+        }
+
+        // ---- IEEE FORMAT ----
+        li.innerHTML = `
+            ${authorText}, 
+            “${title},” 
+            <em>${venue}</em>, 
+            ${year}.
+            ${linksHTML}
+        `;
+
+        ul.appendChild(li);
+    });
+
+    document.getElementById(targetElementId).appendChild(ul);
+}
+</script>
+
+<header>
+    <h1>Vimal Kumar</h1>
+    <p>firstname.lastname@waikato.ac.nz</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#students">Current Students</a>
+    <a href="#service">Service</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="about-wrapper">
+            <div class="profile-block">
+                <img src="bio.jpg" alt="Profile Photo" class="profile-pic">
+                <div class="profile-links-vertical">
+                    <a href="https://scholar.google.com/citations?user=d6Lxz5YAAAAJ" target="_blank" rel="noopener">
+            |Google Scholar|
+                    </a>
+                    <a href="https://orcid.org/0000-0002-4955-3058"
+           target="_blank" rel="noopener">
+            |ORCID|
+                    </a>
+    </div>
+            </div>
+        <div class="about-text">
+                 <p>I am a Senior Lecturer (eq. to Associate Professor in North America) in the School of Computing and Mathematical Sciences at the University of Waikato in New Zealand. Two common themes across my work are the investigation of vulnerabilities and the development of resilient systems. Vulnerabilities can emerge in any system and therefore we need innovative ways to detect them and understand their potential impact. This is even more important in a fast moving technological landscape, where new technologies, systems and software are being rapidly adopted, opening the adopters up to newer forms of cyber-attacks. <br> <br>
+
+
+                 I studied Computer Science & Engineering at IP University in New Delhi before working for a couple of years with Computer Sciences Corporation in India. I moved to Missouri, US in 2008 for further study, where I worked on various problems surrounding secure data aggregation in sensor networks with Prof. Sanjay Madria. I received a PhD in Computer Science from the Missouri University of Science & Technology in 2014. My first academic position was with the University of West Florida in Pensacola after which I moved to University of Waikato in mid 2015, where I have been since, first as a Lecturer and then as a Senior Lecturer from 2020.</p>
+        </div>
+        </div>
+    </section>
+
+    <section id="research">
+        <h2>Research Interests</h2>
+        <p>From time immemorial people have been finding loopholes in existing systems for personal benefit. In modern cybersecurity we call these loopholes vulnerabilities. Broadly, I am interested in the study, discovery and prevention of vulnerabilities in current and future computing systems. See below a more specific list of topics I am currently working on. </p>
+        <ul>
+            <li>Security of AI</li>
+            <li>Security using AI</li>
+            <li>Malware/Ransomware detection</li>
+            <li>Vulnerabilities</li>
+            <li>Supply chain attacks</li>
+            <li>Cyber Threat Intelligence</li>
+        </ul>
+    </section>
+
+
+    <section id="publications">
+        <h2>Publications</h2>
+
+    </section>
+        <script>
+            loadPublications("publications1.xml", "publications");
+        </script>
+
+    </section>
+
+    <section id="students">
+        <h2>Current Students</h2>
+        <ul>
+            <li>Supervising PhD, Masters, and Honours research in cybersecurity</li>
+        </ul>
+    </section>
+<!--
+<section id="teaching">
+    <h2>Teaching</h2>
+    <div class="columns-wrapper">
+        <ul>
+            <li>Master of Cyber Security Program Convenor</li>
+            <li>Courses: Security Analytics</li>
+            <li>Courses: Cloud & IoT Security</li>
+        </ul>
+        <ul>
+            <li>Other teaching activities</li>
+            <li>Lab supervision</li>
+            <li>Curriculum development</li>
+        </ul>
+    </div>
+</section>
+
+
+
+<section id="service">
+    <h2>Service</h2>
+    <div class="columns-wrapper">
+        <ul>
+            <li>Speaker at ASEAN Defence Minister’s Meeting (Plus)</li>
+            <li>Collaborations with FBI and CISO Leaders</li>
+            <li>Government & industry advisory</li>
+        </ul>
+        <ul>
+            <li>Program committees, peer reviewing</li>
+            <li>Academic outreach</li>
+            <li>Conference organization</li>
+        </ul>
+    </div>
+</section>
+
+-->
+
+<footer class="footer">
+    
+</footer>
+
+
+
+</body>
+</html>
