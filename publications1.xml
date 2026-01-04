@@ -24,8 +24,8 @@
       <year>2025</year>
     </date>
     <links>
-      <local/>
-      <online/>
+      <local />
+      <online>https://link.springer.com/article/10.1057/s41284-025-00525-w</online>
     </links>
   </publication>
   <publication id="C027" type="conference">
@@ -56,8 +56,8 @@
       <year>2025</year>
     </date>
     <links>
-      <local/>
-      <online/>
+      <local>/pdfs/IWSEC2025.pdf</local>
+      <online />
     </links>
   </publication>
   <publication id="J006" type="journal">
