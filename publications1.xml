@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <publications>
+  <publication id="C029" type="conference">
+    <title>Toward a Multi-Dimensional Valuation of Personal Data in the Digital Economy</title>
+    <authors>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Mubashir</firstName>
+        <lastName>Qasim</lastName>
+      </author>
+      <author>
+        <firstName>Sara</firstName>
+        <lastName>Rawlence</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>NetSciX2026: International School and Conference on Network Science, Auckland, New Zealand</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2026</year>
+    </date>
+    <links>
+      <local/>
+      <online> https://openreview.net/pdf?id=R5Wzi3rVid </online>
+    </links>
+  </publication>
+  <publication id="J008" type="journal">
+    <title>CodeWars: Using LLMs for vulnerability analysis in cybersecurity education</title>
+    <authors>
+      <author>
+        <firstName>Arunima</firstName>
+        <lastName>Chaudhary</lastName>
+      </author>
+      <author>
+        <firstName>Gualtiero</firstName>
+        <lastName>Colombo</lastName>
+      </author>
+      <author>
+        <firstName>Amir</firstName>
+        <lastName>Javed</lastName>
+      </author>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+      <author>
+        <firstName>Richard</firstName>
+        <lastName>Larsen</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>Journal of The Colloquium for Information Systems Security Education</name>
+    </venue>
+    <publisher>CISSE</publisher>
+    <date>
+      <year>2026</year>
+    </date>
+    <links>
+      <local />
+      <online>https://journal.cisse.info/jcisse/article/download/224/224</online>
+    </links>
+  </publication>
   <publication id="J007" type="journal">
     <title>Investigating the data in investor alerting portals</title>
     <authors>
@@ -26,6 +98,34 @@
     <links>
       <local />
       <online>https://link.springer.com/article/10.1057/s41284-025-00525-w</online>
+    </links>
+  </publication>
+    <publication id="C028" type="conference">
+    <title>Explaining Cyber Attacks Captured on Honeypots Through Attacker Issued Commands</title>
+    <authors>
+      <author>
+        <firstName>Daniel</firstName>
+        <lastName>McAlpine</lastName>
+      </author>
+      <author>
+        <firstName>Junaid</firstName>
+        <lastName>Haseeb</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>2025 IEEE 35th International Telecommunication Networks and Applications Conference (ITNAC)</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2025</year>
+    </date>
+    <links>
+      <local/>
+      <online> https://ieeexplore.ieee.org/abstract/document/11302674 </online>
     </links>
   </publication>
   <publication id="C027" type="conference">
