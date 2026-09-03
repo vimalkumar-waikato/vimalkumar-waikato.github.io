@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <publications>
+    <publication id="C030" type="conference">
+    <title>Understanding Cybersecurity Risk Perception of Large Language Models in University Environments: A Qualitative
+Interview Study</title>
+    <authors>
+      <author>
+        <firstName>Sangita</firstName>
+        <lastName>Choudhary</lastName>
+      </author>
+      <author>
+        <firstName>Farzana</firstName>
+        <lastName>Zahid</lastName>
+      </author>
+      <author>
+        <firstName>Vimal</firstName>
+        <lastName>Kumar</lastName>
+      </author>
+    </authors>
+    <venue>
+      <name>60th Hawaii International Conference on System Sciences (HICSS), Hawaii, U.S.A</name>
+    </venue>
+    <publisher/>
+    <date>
+      <year>2026</year>
+    </date>
+    <links>
+      <local/>
+      <online/>
+    </links>
+  </publication>
   <publication id="C029" type="conference">
     <title>Toward a Multi-Dimensional Valuation of Personal Data in the Digital Economy</title>
     <authors>
